@@ -1,0 +1,21 @@
+.task-list {
+  background-color: #2a2828;
+  color: #e8e1e0;
+  padding: 10px 20px;
+  margin-top: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 10px;
+}
+
+.task {
+  font-size: 20px;
+  font-weight: 700;
+  display: flex;
+  justify-content: space-between;
+}
+
+.task-day {
+  margin-top: -10px;
+  font-size: 16px;
+  font-weight: 500;
+}
